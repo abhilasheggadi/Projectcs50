@@ -1,0 +1,16 @@
+---------SUMMARY--------
+In **shirtificate.py**, prompt for a name to create a Portrait A4 PDF using **fpdf2**. Center the title "CS50 Shirtificate" and a shirt image with the user's name in white.
+
+---------KEYWORDS--------
+CS50
+shirtificate
+Python
+fpdf2
+PDF
+A4 format
+Portrait orientation
+shirtificate.py
+shirtificate.pdf
+image centering
+text overlay
+user input
